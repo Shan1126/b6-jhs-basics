@@ -1,0 +1,19 @@
+[
+    {
+        "key1": "value1",
+        "key2": "value2",
+        "children": [
+            "child1": {
+                "interests":[]
+            },
+            "child2": {
+
+            }
+        ]
+    },
+    {
+        "key1": "value1",
+        "key2": "value2"
+    },
+    
+]
